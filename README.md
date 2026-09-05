@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+# sarcalc🎯
 
 
 ## Basic Details
