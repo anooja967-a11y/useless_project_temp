@@ -5,36 +5,25 @@
 # sarcalc🎯
 
 
-## Basic Details
-### Team Name: [Name]
+## a calc that replies in sarcasm 
+### Team Name: [No context]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1 : [Anooja Ajeesh] - [SCMS School of Engineering and Technology]
+- Member 2 : [Abhirami PA] - [SCMS School of Engineering and Technology]
 
 ### Project Description
-[2-3 lines about what your project does]
+[SARCALC is a completely useless calculator that replaces mathematical answers with increasingly savage sarcastic responses. Enter a calculation, press =, and instead of the answer, get roasted. The more you use it, the more savage it becomes. 
 
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Because sometimes, technology is better at judging than calculating.]
 
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [Python]
+- [tkinter]
 
 ### Implementation
 For Software:
